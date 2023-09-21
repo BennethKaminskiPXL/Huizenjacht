@@ -1,2 +1,5 @@
-package be.pxl.huizenjacht;public enum Status {
+package be.pxl.huizenjacht;
+
+public enum Status {
+    FOR_SALE,SOLD
 }
